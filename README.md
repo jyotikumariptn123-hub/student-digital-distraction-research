@@ -1,17 +1,18 @@
 # Student-digital-distraction-research
 Educational technology research proposing the “Dummy Phone,” a student-focused smartphone designed to reduce social media distraction and improve study productivity.
 # Social Media Distraction and the Dummy Phone Concept
-## Repository Contents
-
-- [dummy_phone_research_paper.pdf](dummy_phone_research_paper.pdf) — Full research paper on social media distraction and the Dummy Phone concept.
-
-- [README.md](README.md) — Overview and description of the research project.
 
 ## Overview
 
 This research project explores the growing problem of **student distraction caused by social media platforms** and proposes a technological solution called the **Dummy Phone**. The project examines how excessive use of platforms such as Instagram and YouTube can reduce students' study time, affect concentration, and negatively impact academic performance.
 
 The research analyzes behavioral patterns among students who intend to study but become distracted by entertainment content, short-form videos, and algorithm-driven recommendations. These distractions often lead to reduced focus and inefficient time management during important academic periods.
+
+## Repository Contents
+
+- [dummy_phone_research_paper.pdf](dummy_phone_research_paper.pdf) — Full research paper on social media distraction and the Dummy Phone concept.
+
+- [README.md](README.md) — Overview and description of the research project.
 
 ## Research Problem
 
