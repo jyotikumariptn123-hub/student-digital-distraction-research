@@ -1,6 +1,11 @@
 # Student-digital-distraction-research
 Educational technology research proposing the “Dummy Phone,” a student-focused smartphone designed to reduce social media distraction and improve study productivity.
 # Social Media Distraction and the Dummy Phone Concept
+## Repository Contents
+
+- [dummy_phone_research_paper.pdf](dummy_phone_research_paper.pdf) — Full research paper on social media distraction and the Dummy Phone concept.
+
+- [README.md](README.md) — Overview and description of the research project.
 
 ## Overview
 
@@ -77,8 +82,4 @@ Related Project:
 Study Genie App – AI tool that generates study questions for students.
 
 
- ## Repository Contents
 
-- [dummy_phone_research_paper.pdf](dummy_phone_research_paper.pdf) — Full research paper on social media distraction and the Dummy Phone concept.
-
-- [README.md](README.md) — Overview and description of the research project.
