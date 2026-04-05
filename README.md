@@ -83,4 +83,4 @@ Jyoti Kumari
 
 - **StudyJourney App** – An AI-powered study tool that generates practice questions based on a student’s class, subject, and topic to support efficient learning.
 
-Repository: 
+Repository: https://github.com/jyotikumariptn123-hub/Study-Genie
