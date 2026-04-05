@@ -75,7 +75,10 @@ Jyoti Kumari
 
 Related Project:
 Study Genie App – AI tool that generates study questions for students.
-## Repository Contents
 
-- dummy_phone_research_paper.pdf — Full research paper
-- README.md — Overview of the research project
+
+ ## Repository Contents
+
+- [dummy_phone_research_paper.pdf](dummy_phone_research_paper.pdf) — Full research paper on social media distraction and the Dummy Phone concept.
+
+- [README.md](README.md) — Overview and description of the research project.
