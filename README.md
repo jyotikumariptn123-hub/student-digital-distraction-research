@@ -79,8 +79,8 @@ distraction among students. Future work could include:
 
 Jyoti Kumari
 
-Related Project:
-Study Genie App – AI tool that generates study questions for students.
+## Related Project
 
+- **StudyJourney App** – An AI-powered study tool that generates practice questions based on a student’s class, subject, and topic to support efficient learning.
 
-
+Repository: 
