@@ -64,7 +64,9 @@ This research proposes the Dummy Phone concept as a solution to digital
 distraction among students. Future work could include:
 
 • Developing a prototype application that implements content filtering
+
 • Conducting surveys among students about social media distraction
+
 • Testing the effectiveness of a restricted study-focused device
 
 ## Author
